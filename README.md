@@ -61,7 +61,7 @@ l.predict([[150.3,240.5,234.5]])
 ```
 
 ## Output:
-![output](ex3.png)
+![output](./output3.png)
 
 
 ## Result:
